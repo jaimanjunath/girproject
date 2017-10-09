@@ -1,1 +1,4 @@
-Heloo not committed Thi is my first file
+<<<<<<< HEAD
+
+Hello new helloI am editing ths file Thi is my first file
+
